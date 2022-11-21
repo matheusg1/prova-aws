@@ -1,0 +1,16 @@
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\bin\Debug\net5.0\ProvaAws.exe
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\bin\Debug\net5.0\ProvaAws.deps.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\bin\Debug\net5.0\ProvaAws.runtimeconfig.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\bin\Debug\net5.0\ProvaAws.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\bin\Debug\net5.0\ProvaAws.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\bin\Debug\net5.0\ProvaAws.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ProvaAws.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ProvaAws.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ProvaAws.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ProvaAws.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ProvaAws.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ProvaAws.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\refint\ProvaAws.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ProvaAws.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ProvaAws.genruntimeconfig.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ProvaAws\ProvaAws\obj\Debug\net5.0\ref\ProvaAws.dll
